@@ -1,0 +1,17 @@
+{
+    "name": "onurtasci/vcenter",
+    "description": "OnurTasci VMware vCenter API",
+    "license": "BurtiNET",
+    "authors": [
+        {
+            "name": "Onur Tasci",
+            "email": "my@onurtasci.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OnurTasci\\": "src"
+        }
+    }
+}
